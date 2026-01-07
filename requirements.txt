@@ -1,0 +1,13 @@
+# ADB Remote Control Requirements
+# 
+# Note: Tkinter is included with Python on most systems
+# No additional Python packages required
+#
+# System Requirements:
+# - Python 3.6+
+# - Tkinter (python3-tk on Ubuntu)
+# - ADB (Android Debug Bridge)
+#
+# To install system dependencies on Ubuntu:
+# sudo apt update
+# sudo apt install python3-tk android-tools-adb
